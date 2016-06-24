@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microtubule dynamics simulation
-desc: I wrote a C++ 2D simulation used to investigate whether there exists a set of conditions where randomly growing microtubules (rods) might self-organize to form a stable ordered state. Some results are shown below.
+desc: I wrote a C++ 2D simulation used to investigate whether there exists a set of conditions where randomly growing microtubules (rods) might self-organize to form a stable ordered state.
 proj-url: https://github.com/igor25/microtubules
 proj-num: 02
 ---
