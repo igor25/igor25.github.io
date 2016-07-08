@@ -3,6 +3,7 @@ layout: post
 title: Diffusion from a moving source
 desc: COMSOL Multiphysics / MATLAB simulation of a reaction-diffusion system where the chemical is released by a moving source.
 proj-url: https://github.com/igor25/moving_source_diffusion
+proj-lang: MATLAB, COMSOL, R
 proj-num: 01
 ---
 
