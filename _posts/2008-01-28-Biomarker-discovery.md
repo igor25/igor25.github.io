@@ -3,7 +3,7 @@ layout: post
 title: Machine learning in biomarker discovery (report)
 desc: Lab rotation report where I learned about Support Vector Machines and applied them to microarray data.
 proj-url: https://github.com/igor25/biomarker-discovery
-proj-lang: N/A
+proj-lang: R (plots)
 proj-num: 04
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: In-vitro gut bacterial ecology
-desc: R, Python, ImageJ and Arduino code for microfluidic device control and data plotting.
+desc: Code for microfluidic device control through Arduino, some data analysis and plotting.
 proj-url: https://github.com/igor25/invitro-gut
-proj-lang: R, Python, ImageJ
+proj-lang: R, Python, ImageJ, Arduino
 proj-num: 05
 ---

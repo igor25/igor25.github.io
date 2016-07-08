@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Microtubule dynamics simulation
-desc: [C++] Code for my rod growth/collision algorithm.
+desc: Code for my rod growth/collision algorithm.
 proj-url: https://github.com/igor25/microtubules
-proj-lang: C++
+proj-lang: C\+\+
 proj-num: 02
 ---
 
