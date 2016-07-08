@@ -119,11 +119,6 @@ p {
   margin: 15px 0;
 }
 
-language_style {
-  font-family: monospace;
-  font-size: 11px;
-}
-
 #home p.site-description {
   font-size: 30px;
   font-weight: 300;
@@ -170,7 +165,7 @@ ul ul, ol ul {
 
 em, i {
   // font-style: italic;
-  font-family: monospace;
+  font-family: $helveticaNeue;
   font-size: 13px;
 }
 
