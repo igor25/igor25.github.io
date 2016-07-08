@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine learning in biomarker discovery (report)
-desc: The report of a lab rotation where I learned about Support Vector Machines and applied them to microarray data.
+desc: Lab rotation report where I learned about Support Vector Machines and applied them to microarray data.
 proj-url: https://github.com/igor25/biomarker-discovery
 proj-num: 04
 ---
